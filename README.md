@@ -1,6 +1,6 @@
-# [Minecraft (Ursina)](https://youtu.be/bEB7MGWA02o)
+# [Minecraft (Ursina)](https://youtu.be/vUVTqx9vUNA)
 
-- Coding Tutorial: [https://youtu.be/bEB7MGWA02o](https://youtu.be/bEB7MGWA02o)
+- Coding Tutorial: [https://youtu.be/vUVTqx9vUNA](https://youtu.be/vUVTqx9vUNA)
 
 How to code minecraft game in Python with Ursina for beginners! Learn how to code minecraft in Python using the Ursina Game Engine.
 
